@@ -6,3 +6,9 @@ layout: home
 ---
 
 {{ site.description }}
+
+## Available Files
+Below is a list of the documents available:
+
+- [Lawyer](lawyer.md)
+- [آرایشگر](آرایشگر.md)
