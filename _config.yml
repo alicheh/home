@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+remote_theme: jekyll/minima
 title: Title from yml
 description: Description from yml
 baseurl: "/docs" # the subpath of your site, e.g. /blog
