@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Title from yml
 description: Description from yml
+baseurl: "/docs" # the subpath of your site, e.g. /blog
+url: "https://alicheh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
